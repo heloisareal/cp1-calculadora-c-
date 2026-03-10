@@ -1,10 +1,10 @@
 # CP1 - Calculadora - Csharp
 ### Integrantes
-- Abner Barbosa 558468
-- Eduardo Dallabella RM556803
-- Fernando Luiz 555201
-- Heloísa Real 554535
-- Thomas de Almeida 554812
+- Abner Barbosa: 558468
+- Eduardo Dallabella: 556803
+- Fernando Luiz: 555201
+- Heloísa Real: 554535
+- Thomas de Almeida: 554812
   
 ### Print do Início do Menu
 <img width="631" height="274" alt="image" src="https://github.com/user-attachments/assets/37eb642d-a06e-485b-a9a2-b41c9e30700d" />
